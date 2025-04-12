@@ -1,1 +1,2 @@
-# Netflix_SQL_Project
+#Netflix Data Analysis
+This repository contains SQL queries and analysis related to the Netflix dataset. The primary objective of this analysis is to explore various aspects of Netflix's content library, including movies and TV shows, using SQL to answer key questions about content distribution, popularity, and trends. The dataset includes details like titles, release years, ratings, countries, directors, genres, and more.
